@@ -35,3 +35,6 @@ out/
 
 ### VS Code ###
 .vscode/
+
+### Database Connection Settings ###
+/src/main/resources/datasource.yml
